@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 
  I’m currently learning DSA.
 
- Programming language - C++, Python.
+ Programming language - C++,Java, Python.
 
  I am persuing my graduation at Madan Mohan Malaviya University of Technology, Gorakhpur.
 
  I am interested in Technologies, good at sketching and I love travelling and new adventures.
 
- How to reach me: 2019041068@mmmut.ac.in
+ How to reach me: nehagautam2233@gmail.com
