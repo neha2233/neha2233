@@ -6,14 +6,13 @@
 Here are some ideas to get you started:
 
 -->
- I am Front-end Developer, open-source contributor and coder.
+ I am a Software Engineer with strong focus on creating impactful solutions. Currently, I'm a part of Lending Team at Mobikwik, where I contribute to development  and maintenance of products like ZIP and Credit Line.
 
- I’m currently learning DSA.
+ My recent work includes building a monitoring system that improved backend reliability and helped cross-functional teams operate more efficiently.
 
- Programming language - C++,Java, Python.
+ I hold a B.Tech degree with major in Electronics and Communication from MMMUT Gorakhpur.
 
- I am persuing my graduation at Madan Mohan Malaviya University of Technology, Gorakhpur.
+ My skills includes Java, SpringBoot, Microservices, React, REST API, MYSQL, NoSQL, Data Structures and Algorithms and Computer Fundamentals.
 
- I am interested in Technologies, good at sketching and I love travelling and new adventures.
 
  How to reach me: nehagautam2233@gmail.com
